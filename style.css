@@ -1,0 +1,14 @@
+body{
+    background-image: url(bg.jpg);
+}
+
+img{
+    width: 450px;
+    background: #00000066;
+    padding: 20px;
+    margin: 150;
+    margin-top: 4%;
+    color: white;
+    font-family: 'Century Gothic',sans-serif;
+  
+}
